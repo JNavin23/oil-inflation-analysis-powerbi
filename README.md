@@ -86,11 +86,6 @@ oil-inflation-analysis-powerbi/
 
 ---
 
-## 📷 Dashboard Preview
-
-![Dashboard](images/dashboard-overview.png)
-
----
 
 ## 🚀 How to Use
 
